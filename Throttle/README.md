@@ -1,0 +1,1 @@
+av8-throttle-quad_asm.stl file authored by Greg Sabin
