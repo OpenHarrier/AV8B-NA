@@ -35,6 +35,7 @@ KNOWN ISSUES:
 * The structures for the left and right consoles are in the process of being refactored.  The blue members are placeholders for parts that will replicate the outside fuselage curves of the Harrier.  That is a work in progress.
 * The canopy ring is twice as thick as the real canopy ring - this was done to beef it up since mine is made from MDF and I wanted to protect it against being snapped. We will design 2 different versions of the canopy ring - one that can be fabricated to accurte dimensions from metal, and one that can be made via wood.
 * There might be a minor part on the front of the ejection seat that is missing and needs to be remade.  This is a minor part and has no structural purpose.
+* You may see some errors in the FreeCAD report view about "freecad.gears.features.ViewAProviderGear".  I believe that's due to some incompatibities in an older version of a Gears workbench I had used when working on the standby compass.  I plan to redo all of that, which will fix those issues. 
 
 If you want to contribute to the OpenHarrier project, please reach out
 to Jason at skystream172@gmail.com
