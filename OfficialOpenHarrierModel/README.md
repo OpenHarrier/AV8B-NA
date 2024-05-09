@@ -3,6 +3,16 @@ This is the official FreeCAD Model for OpenHarrier.
 
 As of this writing, the version of FreeCAD being used is 0.21.2.
 
+DISCLAIMER:  This model (and any Harrier Model, for that matter) is not 100% perfect.  We've attempted to make the model as accurate as possible based on the very few dimensions that we've been able to curate.  Note that in some cases, dimensions are approximate as there have been multiple measurements made by multiple 
+people that all differ from each other.  In those cases, we'd attempted to approximate to what "seems" 
+to be the most realistic.  Everything else is interpolated based off of the known dimensions.  
+Will it be a perfect match for a real Harrier cockpit.  No, but it should be close.  
+I will also mention that the Razbam DCS Harrier cockpit has been used for reference and some of the interpolation, 
+and it is known that the Razbam cockpit does indeed have some inaccuracies.  
+For example, in the Razbam cockpit has the left and right side consoles flat and horizontal with respect to the floor.
+This is known to be totally inaccurate.  In the real Harrier, these consoles are sloped back by 10 degrees down towards
+the aft of the cockpit.  We've chosen to reflect the real cockpit in this respect and not the Razbam cockpit.
+
 If you want to load the entire model with all of the sub-assemblies,
 you should load the latest AV8B-NA-YYYY-MM-DD.FCStd file, which will load
 all of the files so that they can be shown as a single model.
