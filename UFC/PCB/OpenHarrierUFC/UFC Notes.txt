@@ -1,0 +1,59 @@
+27 keypad  buttons
+2 rotary encoders with push button
+4 analog pots with switches
+2 analog pots
+2 3-pos switches
+1 2-pos switch
+
+annunciators
+2 switches (master caution, master warn)
+9 lights left
+12 lights right
+
+Total switches:
+38 switches
+5 multiplexers!
+6 pots
+2 steppers
+
+
+
+Connectors
+Left annunciator
+	9 LED's
+	1 SW
+	1 GND
+	============
+	11 pins (2x6)
+
+Right annunciator
+	12 LED's
+	1 SW
+	1 GND
+	=====
+	14 pins (2x8)
+
+HUD panel
+	3 ADC pins
+	2 pins for reject switch
+	2 pins for day/night switch
+  	1 pin for alt
+	1 pin for switch for HUD pot
+	1 pin vor VREF (voltage)
+	1 GND
+	=====
+	11 pins  (2x6)
+
+
+
+
+=================
+Current draw guesses
+SSD1306 20ma x 5 = 100ma
+1 green 3mm led = 20ma.  x 23 = 460ma
+
+
+
+Arduino Micro power:  20ma per pin... 40ma max.
+USB max is 500ma before fuse resets
+
