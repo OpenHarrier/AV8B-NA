@@ -29,6 +29,15 @@ have the correct scaling or dimensions that allow it to be compatible with other
 Also be aware that some non-FreeCAD parts may be replaced in the future with 
 native-designed FreeCAD parts at a later date.
 
+
+FreeCAD addons you need to install in order to open this model without major errors:
+    Assembly4
+    Curves workbench
+    Fasteners Workbench
+    freecad.gears workbench
+    Render
+
+
 KNOWN ISSUES:
 * The placeholder panels on the left and right consoles are floating on a horizontal plane in the cockpit and are not in the correct position.  These need to be redone and have their origins corrected and tranformed to the correct positions.
 * The UFC model is NOT complete and some of the mounting connections between pieces are still being worked out.  The circuit board is a placeholder and has not been designed yet.
