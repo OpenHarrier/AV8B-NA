@@ -1,4 +1,6 @@
 *.FCBak
 *.FCStd1
+*.FCStd.*
+*.blend*
 UFC/PCB/OpenHarrierUFC/OpenHarrierUFC-backups
 PrivateReferenceModels
