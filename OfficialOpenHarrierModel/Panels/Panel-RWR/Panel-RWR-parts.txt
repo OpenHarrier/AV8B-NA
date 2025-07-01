@@ -1,0 +1,9 @@
+2x SP5T (single pole, 5 position) rotary switch with 60 degree angle between positions:
+	
+Manufacturer:		Grayhill
+Manufacturer part #:	50A60-01-1-05N 
+Digikey part #		GH7683-ND
+
+1x rotary on/off potentiometer
+TBD
+
