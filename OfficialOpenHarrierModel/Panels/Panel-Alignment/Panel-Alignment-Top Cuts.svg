@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="129.03mm" height="123.53mm" viewBox="0 0 129.03 123.53" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Cut_cs" transform="translate(78.971902,53.765000) scale(1,-1)">
+<path id="Cut_cs_w0000"  d="M 15.092612964043022 52.0 A 0.5 0.5 0 0 1 14.5926 52.5L -8.706902359873883 52.5 A 0.5 0.5 0 0 1 -9.2069 52L -9.206902359873883 -0.5000000000000001 A 0.5 0.5 0 0 0 -9.7069 -1L -66.40949767047617 -1.0 A 0.5 0.5 0 0 1 -66.9095 -1.5L -66.90949767047617 -3.6059975302604963 A 6 6 0 0 0 -72.9095 -9.606L -77.20690235987388 -9.605997530260495 A 0.5 0.5 0 0 1 -77.7069 -10.106L -77.70690235987388 -59.39400246973936 A 0.5 0.5 0 0 1 -77.2069 -59.894L -72.90949767047624 -59.89400246973936 A 6 6 0 0 0 -66.9095 -65.894L -66.90949767047624 -68.0 A 0.5 0.5 0 0 1 -66.4095 -68.5L 37.4956929507284 -68.5 A 0.5 0.5 0 0 1 37.9957 -68L 37.9956929507284 -65.89400246973953 A 6 6 0 0 0 43.9957 -59.894L 48.29309764012611 -59.89400246973953 A 0.5 0.5 0 0 1 48.7931 -59.394L 48.79309764012611 52.0 A 0.5 0.5 0 0 1 48.2931 52.5L 24.993582316209206 52.5 A 0.5 0.5 0 0 1 24.4936 52L 24.493582316209206 46.345604 A 4.70048 4.70048 0 0 0 15.0926 46.3456L 15.092612964043022 52.0 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="-61.838886" cy="-10.408254" r="1.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-39.956532" cy="-34.75" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="4.0184" cy="-48.0" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="19.793097640126113" cy="-59.244587" r="1.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="32.220912913142385" cy="-48.0" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="4.0184" cy="-8.0" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="32.220912913142385" cy="-8.0" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="4.0184" cy="32.0" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="19.793097640126113" cy="23.950845576402603" r="1.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="32.220912913142385" cy="32.0" r="6.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Panel CS Top Cuts'</title>
+</g>
+</svg>

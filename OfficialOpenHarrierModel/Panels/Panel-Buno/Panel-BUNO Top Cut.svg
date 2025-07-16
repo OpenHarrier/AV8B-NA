@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="27.17303868mm" height="60.94446068mm" viewBox="0 0 27.17303868 60.94446068" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Part_cs001" transform="translate(13.586519,30.472230) scale(1,-1)">
+<path id="Part_cs001_w0000"  d="M -12.820117 30.205828 A 0.5 0.5 0 0 1 -13.3201 29.7058L -13.320117 -29.705828 A 0.5 0.5 0 0 1 -12.8201 -30.2058L 12.820117 -30.205828 A 0.5 0.5 0 0 1 13.3201 -29.7058L 13.320117 29.705828 A 0.5 0.5 0 0 1 12.8201 30.2058L -12.820117 30.205828 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="0.0" cy="-22.985674" r="2.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="0.0" cy="22.985674" r="2.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="0.0" cy="22.91" r="1.1" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="0.0" cy="-23.009998321533203" r="1.1" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Panel CS Top Cut'</title>
+</g>
+</svg>

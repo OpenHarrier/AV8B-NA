@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="61.38055836mm" height="28.124652360000002mm" viewBox="0 0 61.38055836 28.124652360000002" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Slice_child1_cs" transform="translate(30.690279,14.062326) scale(1,-1)">
+<path id="Slice_child1_cs_w0000"  d="M 30.088509000000002 13.460556 L -30.088509000000002 13.460556 L -30.088509000000002 -13.460556 L 30.088509000000002 -13.460556 L 30.088509000000002 13.460556 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="-10.112634" cy="-7.743328" r="1.6" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-23.56976081554251" cy="0.0" r="1.2" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="9.368135" cy="-8.717367" r="1.6" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="0.0" cy="0.0" r="10.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="12.51528" cy="0.0" r="1.6" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="23.56976081554251" cy="0.0" r="1.2" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-10.901138" cy="6.542569" r="1.6" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<path id="Slice_child1_cs_w0008"  d="M 6.950551470923255 11.912467 L 11.377887 11.912467 L 11.377887 9.74615 L 6.922711528047746 9.74615 A 1.6 1.6 0 1 0 6.95055 11.9125" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Panel CS Middle Cut'</title>
+</g>
+</svg>
