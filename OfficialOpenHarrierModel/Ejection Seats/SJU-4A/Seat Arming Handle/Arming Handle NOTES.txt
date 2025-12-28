@@ -6,3 +6,6 @@ Parts needed:
 (4) M5 split washers (optional)
 (1) DAOKI Micro Switch AC 1A 125V 3Pin SPDT NO+NC Hinge (or similar)
 (1) M5x40mm screw or bolt for pivot joint
+(2) M2x12mm bolts for mounting switch
+(2) M2 nuts for mounting switch
+
