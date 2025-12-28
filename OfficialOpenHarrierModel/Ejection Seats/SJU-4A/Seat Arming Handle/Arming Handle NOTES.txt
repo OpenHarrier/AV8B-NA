@@ -1,0 +1,8 @@
+Parts needed:
+
+(1) M5x200mm threaded rod
+(4) M5 nuts
+(4) M5 washers (optional)
+(4) M5 split washers (optional)
+(1) DAOKI Micro Switch AC 1A 125V 3Pin SPDT NO+NC Hinge (or similar)
+(1) M5x40mm screw or bolt for pivot joint
