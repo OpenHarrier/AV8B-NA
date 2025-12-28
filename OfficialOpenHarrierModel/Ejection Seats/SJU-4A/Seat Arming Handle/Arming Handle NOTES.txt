@@ -9,3 +9,10 @@ Parts needed:
 (2) M2x12mm bolts for mounting switch
 (2) M2 nuts for mounting switch
 
+Assembly Order:
+1)  Put M5 threaded rod through latching arm, secure in place with M5 nuts, optionally using M5 washers and M5 split washers to make it tight.
+2)  Glue lower arm to upper arm.
+3)  Glue arm assembly to the BaseWithFork (or BaseWithoutFork depending which one you want to use)
+4)  Push the other end of the M5 threaded rod into the assembled arm.
+5)  Put the spring on, then the 3D printed spacer, then screw on an M5 bolt, leaving 10mm or more of thread exposed at the end.
+6)  Put the switch in, with the top edge of the spring contact facing away from the arming handle.  Secure with M2 bolts and M2 nuts.
